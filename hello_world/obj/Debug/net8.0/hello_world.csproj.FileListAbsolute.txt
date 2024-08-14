@@ -12,3 +12,4 @@ D:\Bootcamp\Solo\hello_world\obj\Debug\net8.0\refint\hello_world.dll
 D:\Bootcamp\Solo\hello_world\obj\Debug\net8.0\hello_world.pdb
 D:\Bootcamp\Solo\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
 D:\Bootcamp\Solo\hello_world\obj\Debug\net8.0\ref\hello_world.dll
+D:\Bootcamp\Solo\hello_world\obj\Debug\net8.0\hello_world.sourcelink.json
