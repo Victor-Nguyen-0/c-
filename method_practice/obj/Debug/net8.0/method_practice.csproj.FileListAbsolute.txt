@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\method_practice\bin\Debug\net8.0\method_practice.exe
+D:\Bootcamp\Solo\method_practice\bin\Debug\net8.0\method_practice.deps.json
+D:\Bootcamp\Solo\method_practice\bin\Debug\net8.0\method_practice.runtimeconfig.json
+D:\Bootcamp\Solo\method_practice\bin\Debug\net8.0\method_practice.dll
+D:\Bootcamp\Solo\method_practice\bin\Debug\net8.0\method_practice.pdb
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.AssemblyInfo.cs
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.sourcelink.json
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.dll
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\refint\method_practice.dll
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.pdb
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\method_practice.genruntimeconfig.cache
+D:\Bootcamp\Solo\method_practice\obj\Debug\net8.0\ref\method_practice.dll
