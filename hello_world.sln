@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world", "hello_world\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method_practice", "method_practice\method_practice.csproj", "{87902EB8-538A-4E3B-9946-268BA1DEA7A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decision_logic", "decision_logic\decision_logic.csproj", "{4EBA9B5F-922F-4F19-8836-B83F21BC2EDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{87902EB8-538A-4E3B-9946-268BA1DEA7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87902EB8-538A-4E3B-9946-268BA1DEA7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87902EB8-538A-4E3B-9946-268BA1DEA7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBA9B5F-922F-4F19-8836-B83F21BC2EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBA9B5F-922F-4F19-8836-B83F21BC2EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBA9B5F-922F-4F19-8836-B83F21BC2EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBA9B5F-922F-4F19-8836-B83F21BC2EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

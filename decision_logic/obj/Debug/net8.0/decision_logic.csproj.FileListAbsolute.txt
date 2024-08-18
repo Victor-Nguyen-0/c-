@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\decision_logic\bin\Debug\net8.0\decision_logic.exe
+D:\Bootcamp\Solo\decision_logic\bin\Debug\net8.0\decision_logic.deps.json
+D:\Bootcamp\Solo\decision_logic\bin\Debug\net8.0\decision_logic.runtimeconfig.json
+D:\Bootcamp\Solo\decision_logic\bin\Debug\net8.0\decision_logic.dll
+D:\Bootcamp\Solo\decision_logic\bin\Debug\net8.0\decision_logic.pdb
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.AssemblyInfo.cs
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.sourcelink.json
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.dll
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\refint\decision_logic.dll
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.pdb
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\decision_logic.genruntimeconfig.cache
+D:\Bootcamp\Solo\decision_logic\obj\Debug\net8.0\ref\decision_logic.dll
