@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\arrays\bin\Debug\net8.0\arrays.exe
+D:\Bootcamp\Solo\arrays\bin\Debug\net8.0\arrays.deps.json
+D:\Bootcamp\Solo\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+D:\Bootcamp\Solo\arrays\bin\Debug\net8.0\arrays.dll
+D:\Bootcamp\Solo\arrays\bin\Debug\net8.0\arrays.pdb
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.dll
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\refint\arrays.dll
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.pdb
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+D:\Bootcamp\Solo\arrays\obj\Debug\net8.0\ref\arrays.dll
