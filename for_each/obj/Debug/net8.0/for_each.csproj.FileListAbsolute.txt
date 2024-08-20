@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\for_each\bin\Debug\net8.0\for_each.exe
+D:\Bootcamp\Solo\for_each\bin\Debug\net8.0\for_each.deps.json
+D:\Bootcamp\Solo\for_each\bin\Debug\net8.0\for_each.runtimeconfig.json
+D:\Bootcamp\Solo\for_each\bin\Debug\net8.0\for_each.dll
+D:\Bootcamp\Solo\for_each\bin\Debug\net8.0\for_each.pdb
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.AssemblyInfo.cs
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.sourcelink.json
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.dll
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\refint\for_each.dll
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.pdb
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\for_each.genruntimeconfig.cache
+D:\Bootcamp\Solo\for_each\obj\Debug\net8.0\ref\for_each.dll

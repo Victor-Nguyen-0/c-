@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decision_logic", "decision_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{92DCDD5F-F75F-48B2-B7C5-A5C7140C2604}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_each", "for_each\for_each.csproj", "{326629F0-B3D8-4984-98B0-0EEC86D55A11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{92DCDD5F-F75F-48B2-B7C5-A5C7140C2604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92DCDD5F-F75F-48B2-B7C5-A5C7140C2604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92DCDD5F-F75F-48B2-B7C5-A5C7140C2604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
