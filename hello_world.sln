@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_each", "for_each\for_each.csproj", "{326629F0-B3D8-4984-98B0-0EEC86D55A11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booleans", "booleans\booleans.csproj", "{32DAE10B-DDBF-4331-8AA5-E2CBF4C91ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{326629F0-B3D8-4984-98B0-0EEC86D55A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DAE10B-DDBF-4331-8AA5-E2CBF4C91ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DAE10B-DDBF-4331-8AA5-E2CBF4C91ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DAE10B-DDBF-4331-8AA5-E2CBF4C91ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DAE10B-DDBF-4331-8AA5-E2CBF4C91ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

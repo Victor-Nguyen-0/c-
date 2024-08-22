@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\booleans\bin\Debug\net8.0\booleans.exe
+D:\Bootcamp\Solo\booleans\bin\Debug\net8.0\booleans.deps.json
+D:\Bootcamp\Solo\booleans\bin\Debug\net8.0\booleans.runtimeconfig.json
+D:\Bootcamp\Solo\booleans\bin\Debug\net8.0\booleans.dll
+D:\Bootcamp\Solo\booleans\bin\Debug\net8.0\booleans.pdb
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.AssemblyInfo.cs
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.sourcelink.json
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.dll
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\refint\booleans.dll
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.pdb
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\booleans.genruntimeconfig.cache
+D:\Bootcamp\Solo\booleans\obj\Debug\net8.0\ref\booleans.dll
