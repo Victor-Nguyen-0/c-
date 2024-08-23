@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\scope\bin\Debug\net8.0\scope.exe
+D:\Bootcamp\Solo\scope\bin\Debug\net8.0\scope.deps.json
+D:\Bootcamp\Solo\scope\bin\Debug\net8.0\scope.runtimeconfig.json
+D:\Bootcamp\Solo\scope\bin\Debug\net8.0\scope.dll
+D:\Bootcamp\Solo\scope\bin\Debug\net8.0\scope.pdb
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.AssemblyInfo.cs
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.sourcelink.json
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.dll
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\refint\scope.dll
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.pdb
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\scope.genruntimeconfig.cache
+D:\Bootcamp\Solo\scope\obj\Debug\net8.0\ref\scope.dll
