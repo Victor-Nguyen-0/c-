@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\switch\bin\Debug\net8.0\switch.exe
+D:\Bootcamp\Solo\switch\bin\Debug\net8.0\switch.deps.json
+D:\Bootcamp\Solo\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+D:\Bootcamp\Solo\switch\bin\Debug\net8.0\switch.dll
+D:\Bootcamp\Solo\switch\bin\Debug\net8.0\switch.pdb
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.sourcelink.json
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.dll
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\refint\switch.dll
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.pdb
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+D:\Bootcamp\Solo\switch\obj\Debug\net8.0\ref\switch.dll
