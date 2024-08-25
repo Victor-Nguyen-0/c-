@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\for_loops\bin\Debug\net8.0\for_loops.exe
+D:\Bootcamp\Solo\for_loops\bin\Debug\net8.0\for_loops.deps.json
+D:\Bootcamp\Solo\for_loops\bin\Debug\net8.0\for_loops.runtimeconfig.json
+D:\Bootcamp\Solo\for_loops\bin\Debug\net8.0\for_loops.dll
+D:\Bootcamp\Solo\for_loops\bin\Debug\net8.0\for_loops.pdb
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.AssemblyInfo.cs
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.sourcelink.json
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.dll
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\refint\for_loops.dll
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.pdb
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\for_loops.genruntimeconfig.cache
+D:\Bootcamp\Solo\for_loops\obj\Debug\net8.0\ref\for_loops.dll
