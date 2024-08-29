@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_loops", "for_loops\for_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do_while", "do_while\do_while.csproj", "{98ABAB24-9CA5-44E9-988B-A51687BEE897}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guided_pets_app", "guided_pets_app\guided_pets_app.csproj", "{EC3E54E8-B25C-44E8-B988-077592D495E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{98ABAB24-9CA5-44E9-988B-A51687BEE897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98ABAB24-9CA5-44E9-988B-A51687BEE897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98ABAB24-9CA5-44E9-988B-A51687BEE897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

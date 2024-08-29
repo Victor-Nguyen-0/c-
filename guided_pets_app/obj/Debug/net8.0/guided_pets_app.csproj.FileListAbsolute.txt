@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\guided_pets_app\bin\Debug\net8.0\guided_pets_app.exe
+D:\Bootcamp\Solo\guided_pets_app\bin\Debug\net8.0\guided_pets_app.deps.json
+D:\Bootcamp\Solo\guided_pets_app\bin\Debug\net8.0\guided_pets_app.runtimeconfig.json
+D:\Bootcamp\Solo\guided_pets_app\bin\Debug\net8.0\guided_pets_app.dll
+D:\Bootcamp\Solo\guided_pets_app\bin\Debug\net8.0\guided_pets_app.pdb
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.AssemblyInfo.cs
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.sourcelink.json
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.dll
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\refint\guided_pets_app.dll
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.pdb
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\guided_pets_app.genruntimeconfig.cache
+D:\Bootcamp\Solo\guided_pets_app\obj\Debug\net8.0\ref\guided_pets_app.dll
