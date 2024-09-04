@@ -270,7 +270,40 @@ do
             break;
 
         case "3":
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    // display pet ID value and prompt user for updata data value if data is missing or incomplete
+                    Console.WriteLine($"The current age listed for pet ID: {animalID} is -- {animalAge}");
+
+                    if (ourAnimals[i, 2] == "Age: " || ourAnimals[i, 2] == "Age: ?")
+                    {
+                        bool validAge = false;
+                        do 
+                        {
+                            Console.WriteLine($"Enter an age for ID #: {animalID}");
+                            readResult = Console.ReadLine();
+
+                            // checking to see if valid integer is inputted
+                            if (readResult != null)
+                            {
+                                int age;
+                                validAge = int.TryParse(readResult, out age);
+
+                                if (!validAge)
+                                {
+                                    Console.WriteLine("Invalid input. Please enter a valid integer for the age.");
+                                }
+                            }
+
+                        } while (!validAge);
+
+                        ourAnimals[i,2] = "Age: " + readResult;
+                    }
+                }
+            }
+
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
