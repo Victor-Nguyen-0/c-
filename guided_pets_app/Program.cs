@@ -275,12 +275,16 @@ do
                 if (ourAnimals[i, 0] != "ID #: ")
                 {
                     // display pet ID value and prompt user for updata data value if data is missing or incomplete
+                    animalID = ourAnimals[i, 0];
+                    animalAge = ourAnimals[i, 2];
+                    Console.WriteLine();
                     Console.WriteLine($"The current age listed for pet ID: {animalID} is -- {animalAge}");
 
+                    // Check if age is missing or set to "?"
                     if (ourAnimals[i, 2] == "Age: " || ourAnimals[i, 2] == "Age: ?")
                     {
                         bool validAge = false;
-                        do 
+                        do
                         {
                             Console.WriteLine($"Enter an age for ID #: {animalID}");
                             readResult = Console.ReadLine();
@@ -299,7 +303,38 @@ do
 
                         } while (!validAge);
 
-                        ourAnimals[i,2] = "Age: " + readResult;
+                        ourAnimals[i, 2] = "Age: " + readResult;
+                    }
+
+                    animalPhysicalDescription = ourAnimals[i, 4];
+                    Console.WriteLine($"This pet has the following given description: {animalPhysicalDescription}");
+
+                    // Check if physical description is missing or set to "tbd"
+                    if (ourAnimals[i, 4] == "Physical description: tbd" || ourAnimals[i, 4] == "Physical description: ")
+                    {
+                        bool validDescription = false;
+
+                        do
+                        {
+                            Console.WriteLine($"The physical description for {ourAnimals[i, 1]} (ID: {ourAnimals[i, 0]}) is missing or incomplete.");
+                            Console.WriteLine("Please enter a physical description (size, color, gender, weight, housebroken):");
+                            readResult = Console.ReadLine();
+
+                            // checking to see if valid physical description is inputted
+                            if (!string.IsNullOrEmpty(readResult))
+                            {
+                                validDescription = true;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter a valid physical description.");
+                            }
+                        } while (!validDescription);
+
+                        if (readResult != null)
+                        {
+                            ourAnimals[i, 4] = "Physical description: " + readResult.ToLower();
+                        }
                     }
                 }
             }
