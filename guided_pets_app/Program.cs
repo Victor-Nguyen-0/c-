@@ -278,7 +278,7 @@ do
                     animalID = ourAnimals[i, 0];
                     animalAge = ourAnimals[i, 2];
                     Console.WriteLine();
-                    Console.WriteLine($"The current age listed for pet ID: {animalID} is -- {animalAge}");
+                    Console.WriteLine($"The current age listed for pet {animalID} is -- {animalAge}");
 
                     // Check if age is missing or set to "?"
                     if (ourAnimals[i, 2] == "Age: " || ourAnimals[i, 2] == "Age: ?")
@@ -286,7 +286,7 @@ do
                         bool validAge = false;
                         do
                         {
-                            Console.WriteLine($"Enter an age for ID #: {animalID}");
+                            Console.WriteLine($"Enter an age for {animalID}");
                             readResult = Console.ReadLine();
 
                             // checking to see if valid integer is inputted
@@ -297,7 +297,7 @@ do
 
                                 if (!validAge)
                                 {
-                                    Console.WriteLine("Invalid input. Please enter a valid integer for the age.");
+                                    Console.WriteLine($"Enter an age for {animalID}");
                                 }
                             }
 
@@ -307,17 +307,17 @@ do
                     }
 
                     animalPhysicalDescription = ourAnimals[i, 4];
-                    Console.WriteLine($"This pet has the following given description: {animalPhysicalDescription}");
+                    Console.WriteLine($"This pet has the following given {animalPhysicalDescription}");
 
                     // Check if physical description is missing or set to "tbd"
-                    if (ourAnimals[i, 4] == "Physical description: tbd" || ourAnimals[i, 4] == "Physical description: ")
+                    if (ourAnimals[i, 4] == "Physical description: " || ourAnimals[i, 4] == "Physical description: tbd")
                     {
                         bool validDescription = false;
 
                         do
                         {
                             Console.WriteLine($"The physical description for {ourAnimals[i, 1]} (ID: {ourAnimals[i, 0]}) is missing or incomplete.");
-                            Console.WriteLine("Please enter a physical description (size, color, gender, weight, housebroken):");
+                            Console.WriteLine($"Enter a physical description for {ourAnimals[i,0]} (size, color, gender, weight, housebroken):");
                             readResult = Console.ReadLine();
 
                             // checking to see if valid physical description is inputted
@@ -327,7 +327,7 @@ do
                             }
                             else
                             {
-                                Console.WriteLine("Invalid input. Please enter a valid physical description.");
+                                Console.WriteLine($"Enter a physical description for {ourAnimals[i,0]} (size, color, gender, weight, housebroken):");
                             }
                         } while (!validDescription);
 
@@ -339,16 +339,86 @@ do
                 }
             }
 
+            Console.WriteLine("Age and physical description fields are complete for all of our friends. ");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
 
         case "4":
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    animalID = ourAnimals[i,0];
+                    animalNickname = ourAnimals[i,3];
+                    Console.WriteLine($"The following nickname for {animalID} is: {animalNickname}");
+
+                    // Check if nickname is missing or set to "tbd"
+                    if (ourAnimals[i, 3] == "Nickname: " || ourAnimals[i, 3] == "Nickname: tbd")
+                    {
+                        bool validNickname = false;
+
+                        do
+                        {
+                            Console.WriteLine($"The nickname for {ourAnimals[i, 1]} (ID: {ourAnimals[i, 0]}) is missing or incomplete.");
+                            Console.WriteLine($"Enter a nickname for {ourAnimals[i,0]}");
+                            readResult = Console.ReadLine();
+
+                            //checking to see if valid nickname is inputted
+                            if (!string.IsNullOrEmpty(readResult))
+                            {
+                                validNickname = true;
+                            }
+                            else
+                            {
+                                Console.WriteLine($"Enter a nickname for {ourAnimals[i,0]}");
+                            }
+                        } while (!validNickname);
+
+                        if (readResult !=null)
+                        {
+                            ourAnimals[i,3] = "Nickname: " + readResult.ToLower();
+                        }
+                    }
+
+                    animalPersonalityDescription = ourAnimals[i,5];
+                    Console.WriteLine($"{animalNickname} has the following personality: {animalPersonalityDescription}");
+
+                    // Check if personality description is missing or set to "tbd"
+                    if (ourAnimals[i,5] == "Personality: " || ourAnimals[i,5] == "Personality: tbd")
+                    {
+                        bool validPersonality = false;
+
+                        do
+                        {
+                            Console.WriteLine($"The personality description for {ourAnimals[i, 1]} (ID: {ourAnimals[i, 0]}) is missing or incomplete.");
+                            Console.WriteLine($"Enter a personality description for {ourAnimals[i,0]} (likes or dislikes, tricks, energy level)");
+                            readResult = Console.ReadLine();
+
+                            // checking to see if valid personality description in inputted
+                            if (!string.IsNullOrEmpty(readResult))
+                            {
+                                validPersonality = true;
+                            }
+                            else
+                            {
+                                Console.WriteLine($"Enter a personality description for {ourAnimals[i,0]} (likes or dislikes, tricks, energy level)");
+                            }
+                        } while (!validPersonality);
+
+                        if (readResult != null)
+                        {
+                            ourAnimals[i,5] = "Personality: " + readResult.ToLower();
+                        }
+                    }
+                }
+            }
+
+            Console.WriteLine("Nickname and personality description fields are complete for all of our friends. ");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
-
+            
         case "5":
             Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
             Console.WriteLine("Press the Enter key to continue.");
