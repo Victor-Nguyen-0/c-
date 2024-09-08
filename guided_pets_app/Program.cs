@@ -297,7 +297,7 @@ do
 
                                 if (!validAge)
                                 {
-                                    Console.WriteLine($"Enter an age for {animalID}");
+                                    continue;
                                 }
                             }
 
@@ -327,7 +327,7 @@ do
                             }
                             else
                             {
-                                Console.WriteLine($"Enter a physical description for {ourAnimals[i,0]} (size, color, gender, weight, housebroken):");
+                                continue;
                             }
                         } while (!validDescription);
 
@@ -371,7 +371,7 @@ do
                             }
                             else
                             {
-                                Console.WriteLine($"Enter a nickname for {ourAnimals[i,0]}");
+                                continue;
                             }
                         } while (!validNickname);
 
@@ -402,7 +402,7 @@ do
                             }
                             else
                             {
-                                Console.WriteLine($"Enter a personality description for {ourAnimals[i,0]} (likes or dislikes, tricks, energy level)");
+                                continue;
                             }
                         } while (!validPersonality);
 
