@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do_while", "do_while\do_whi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guided_pets_app", "guided_pets_app\guided_pets_app.csproj", "{EC3E54E8-B25C-44E8-B988-077592D495E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integral_types", "integral_types\integral_types.csproj", "{0E9967F3-A90F-4996-AB2A-137F500F1FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data_types", "data_types\data_types.csproj", "{CD5FDE1E-3F02-404A-929B-77436855F9EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3E54E8-B25C-44E8-B988-077592D495E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9967F3-A90F-4996-AB2A-137F500F1FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9967F3-A90F-4996-AB2A-137F500F1FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9967F3-A90F-4996-AB2A-137F500F1FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9967F3-A90F-4996-AB2A-137F500F1FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5FDE1E-3F02-404A-929B-77436855F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5FDE1E-3F02-404A-929B-77436855F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5FDE1E-3F02-404A-929B-77436855F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5FDE1E-3F02-404A-929B-77436855F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
