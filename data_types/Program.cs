@@ -19,24 +19,49 @@
 // Console.WriteLine($"double : {double.MinValue} to {double.MaxValue} (with ~15-17 digits of precision)");
 // Console.WriteLine($"decimal: {decimal.MinValue} to {decimal.MaxValue} (with 28-29 digits of precision)");
 
-int[] data = new int[3];
+// int[] data = new int[3];
 
-string shortenedString = "Hello World!";
-Console.WriteLine(shortenedString);
+// string shortenedString = "Hello World!";
+// Console.WriteLine(shortenedString);
 
-int val_A = 2;
-int val_B = val_A;
-val_B = 5;
+// int val_A = 2;
+// int val_B = val_A;
+// val_B = 5;
 
-Console.WriteLine("--Value Types--");
-Console.WriteLine($"val_A: {val_A}");
-Console.WriteLine($"val_B: {val_B}");
+// Console.WriteLine("--Value Types--");
+// Console.WriteLine($"val_A: {val_A}");
+// Console.WriteLine($"val_B: {val_B}");
 
-int[] ref_A= new int[1];
-ref_A[0] = 2;
-int[] ref_B = ref_A;
-ref_B[0] = 5;
+// int[] ref_A= new int[1];
+// ref_A[0] = 2;
+// int[] ref_B = ref_A;
+// ref_B[0] = 5;
 
-Console.WriteLine("--Reference Types--");
-Console.WriteLine($"ref_A[0]: {ref_A[0]}");
-Console.WriteLine($"ref_B[0]: {ref_B[0]}");
+// Console.WriteLine("--Reference Types--");
+// Console.WriteLine($"ref_A[0]: {ref_A[0]}");
+// Console.WriteLine($"ref_B[0]: {ref_B[0]}");
+
+// int first = 2;
+// string second = "4";
+// string result = first + second;
+// Console.WriteLine(result);
+
+// // widening conversion
+// int myInt = 3;
+// Console.WriteLine($"int: {myInt}");
+
+// decimal myDecimal = myInt;
+// Console.WriteLine($"decimal: {myDecimal}");
+
+// // narrowing conversion
+// decimal myDecimal = 3.14m;
+// Console.WriteLine($"decimal: {myDecimal}");
+
+// int myInt = (int)myDecimal;
+// Console.WriteLine($"int: {myInt}");
+
+decimal myDecimal = 1.23456789m;
+float myFloat = (float)myDecimal;
+
+Console.WriteLine($"Decimal: {myDecimal}");
+Console.WriteLine($"Float  : {myFloat}");
