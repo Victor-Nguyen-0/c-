@@ -1,0 +1,15 @@
+D:\Bootcamp\Solo\data_types\bin\Debug\net8.0\data_types.exe
+D:\Bootcamp\Solo\data_types\bin\Debug\net8.0\data_types.deps.json
+D:\Bootcamp\Solo\data_types\bin\Debug\net8.0\data_types.runtimeconfig.json
+D:\Bootcamp\Solo\data_types\bin\Debug\net8.0\data_types.dll
+D:\Bootcamp\Solo\data_types\bin\Debug\net8.0\data_types.pdb
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.AssemblyInfoInputs.cache
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.AssemblyInfo.cs
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.sourcelink.json
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.dll
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\refint\data_types.dll
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.pdb
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\data_types.genruntimeconfig.cache
+D:\Bootcamp\Solo\data_types\obj\Debug\net8.0\ref\data_types.dll
